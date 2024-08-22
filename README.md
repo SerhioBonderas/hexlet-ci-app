@@ -1,3 +1,8 @@
+[![run-test](https://github.com/SerhioBonderas/hexlet-ci-app/actions/workflows/run-test.yml/badge.svg)](https://github.com/SerhioBonderas/hexlet-ci-app/actions/workflows/run-test.yml)
+
+
+
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
